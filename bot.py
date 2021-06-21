@@ -9,7 +9,7 @@ with open(r'users.txt', 'r') as f:
 print(users)
 
 # Auto login
-insta = InstaDM(username='matrixepos@gmail.com', password='Birmingham@2020', headless=False)
+insta = InstaDM(username='ma@gmail.com', password='Bi20', headless=False)
 
 def scheduler():
     while True:
